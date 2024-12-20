@@ -14,7 +14,7 @@ tooManyWhite = {
     '3e': 'wbishop', '1a': 'wrook', '1b': 'wrook', '1c': 'wrook', 
     '2a': 'wpawn', '2b': 'wpawn', '2c': 'wpawn', '2d': 'wpawn', 
     '2e': 'wpawn', '2f': 'wpawn', '2h': 'wpawn', '3a': 'wpawn',
-    '3b': 'wpawn'  # This extra pawn makes it more than the allowed 16 white pieces.
+    '3b': 'wpawn'  # This extra pawn makes it more than the allowed 16 white pieces..
 }
 
 tooManyBlack = {
